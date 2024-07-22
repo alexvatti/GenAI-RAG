@@ -9,7 +9,8 @@ It allows users to input article URLs and search through text, PDFs, and web con
 
 ## Steps
 
-0. Python Version 3.11.5
+0.Python Version 3.11.5
+
 
 1.Clone this repository to your local machine using:
 
