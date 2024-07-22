@@ -31,4 +31,4 @@ It allows users to input article URLs and search through text, PDFs, and web con
 
 1. Run the Streamlit app by executing:
 ```bash
-streamlit run main.py
+streamlit run app.py
