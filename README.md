@@ -1,4 +1,7 @@
 # GenAI-RAG
+🌟 BERT (Hugging Face)
+🌟 Lang Chain (RAG)
+🌟 LLM Models
 
 # Bot: Research Tool 
 
