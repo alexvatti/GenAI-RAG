@@ -11,7 +11,6 @@ It allows users to input article URLs and search through text, PDFs, and web con
 
 0.Python Version 3.11.5
 
-
 1.Clone this repository to your local machine using:
 
 ```bash
@@ -22,7 +21,7 @@ It allows users to input article URLs and search through text, PDFs, and web con
 ```bash
   cd GenAI-RAG
 ```
-3. Install the required dependencies using pip:
+3.Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
